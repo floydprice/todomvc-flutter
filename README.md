@@ -1,4 +1,4 @@
-# todomvc
+# TodoMVC with Flutter
 
 A new Flutter project.
 
